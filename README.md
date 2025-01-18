@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mujeeb-ur-Rehman (@mujeeb-tech)
+## 👋 Hi, I’m Mujeeb-ur-Rehman (@mujeeb-tech)
 
 - 👀 **I’m passionate about coding and building innovative solutions.**  
 - 🌱 **Currently sharpening my skills as a Frontend Developer**, with the goal of transitioning into full-stack development and eventually DevOps.  
