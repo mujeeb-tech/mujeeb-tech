@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, AI, and Tech Startups
 - 🌱 I’m currently learning Full-Stack Web Development (HTML, CSS, JavaScript, React, Node.js)
 - 💞️ I’m looking to collaborate on Open Source Projects and Web Applications
-- 📫 How to reach me: [Email](Mujeeburrehman.tech@gmail.com) | [LinkedIn]((https://www.linkedin.com/in/mujeebtech/))
+- 📫 How to reach me: [Email](Mujeeburrehman.tech@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mujeebtech/))
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love building tech solutions that make life easier!
 
